@@ -1,5 +1,4 @@
-<img width="900" height="490" alt="𝓛𝓲𝓷 - Anime Gifs  Art by @mienar" src="https://github.com/user-attachments/assets/03bb444f-7785-40e2-8647-c602b9213436" />
-
+<img width="900" height="500" alt="indir (7)" src="https://github.com/user-attachments/assets/2ca2e99d-0361-460a-a442-5c7dd41832ec" />
 
 
 ─────────────────────────────────────────୨ৎ──────────────────────────────────────────
