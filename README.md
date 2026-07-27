@@ -1,5 +1,4 @@
-
-<img width="900" height="500" alt="𝓐𝓼𝓼𝓪𝓼𝓼𝓲𝓷𝓮 •Yoonmin•" src="https://github.com/user-attachments/assets/ee6bf273-44e8-46b5-b246-dae3f73186b7" />
+<img width="900" height="490" alt="𝓛𝓲𝓷 - Anime Gifs  Art by @mienar" src="https://github.com/user-attachments/assets/03bb444f-7785-40e2-8647-c602b9213436" />
 
 
 
