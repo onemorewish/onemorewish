@@ -1,10 +1,9 @@
-<img width="900" height="500" alt="indir (7)" src="https://github.com/user-attachments/assets/2ca2e99d-0361-460a-a442-5c7dd41832ec" />
+<img width="900" height="500" alt="null_ Photo" src="https://github.com/user-attachments/assets/519eb9dd-cf1b-437a-88e8-5a51621b54f8" />
 
 
 ─────────────────────────────────────────୨ৎ──────────────────────────────────────────
-<img width="250" height="250" alt="f778169d92bff30e208da56303a2cf30" src="https://github.com/user-attachments/assets/d42980c9-00e1-41d3-bdbb-35ff1f471eeb" />
-<img width="250" height="250" alt="fcc213eb3ac6c98223fd88d4f2a26d08" src="https://github.com/user-attachments/assets/f1ffee31-eb65-4440-9e46-b9d07b2a0d5e" />
-<img width="250" height="250" alt="ddec6ad68476d0affc315247595f5873" src="https://github.com/user-attachments/assets/7ee527d3-fd6b-4114-bc48-f148063da6fa" />
-
+<img width="250" height="250" alt="indir (3)" src="https://github.com/user-attachments/assets/47aa9aac-f623-4385-8448-c9e9c2d00214" />
+<img width="250" height="250" alt="artic monkeys too real" src="https://github.com/user-attachments/assets/50e53a00-12f0-48a7-b2a3-a8e728fc98d4" />
+<img width="250" height="250" alt="indir (4)" src="https://github.com/user-attachments/assets/a1a90c0f-1401-4bc2-82b3-fb374d891889" />
 
 
