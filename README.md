@@ -1,4 +1,3 @@
-<img width="735" height="294" alt="Firefly_RemoveBackground" src="https://github.com/user-attachments/assets/f57a4257-4a7d-4bfd-9b14-67c8a7f00c02" />
 
 <img width="900" height="500" alt="null_ Photo" src="https://github.com/user-attachments/assets/519eb9dd-cf1b-437a-88e8-5a51621b54f8" />
 
