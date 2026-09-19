@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/6e28df89-a344-40a8-9f72-bca7c1ee9d78"
+<img src="https://github.com/user-attachments/assets/242e8a43-65f1-4544-96ba-fddef2a7b3c0"
 width="100%" alt="Banner">
 
 </div>
@@ -10,9 +10,10 @@ width="100%" alt="Banner">
      src="https://github.com/user-attachments/assets/56979814-8be4-465f-a6cd-c9a87df7b21b"
      width="40%"
      alt="Profile image">
-<h2>𓆩 god why ts is so hard 𓆪</h2>
+<p align="center"> <font size="5"> $\color{#bf9f9f}{\text{burp}}$
 
-<p>OUUU</p>
+$\color{#cfc1c1}{\text{OH MY HGOOOD ITS WORKING !!!!}}$ 
+
 
 
 <br clear="both">
@@ -22,3 +23,4 @@ width="100%" alt="Banner">
 ♡ ───────────── ♡
 
 </div>
+bf9f9f
