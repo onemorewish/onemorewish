@@ -24,6 +24,7 @@ $\color{#cfc1c1}{\text{⋆˚꩜｡ blocked xyl and stole her shii ahahauahHhhaha
 
 $\color{#cfc1c1}{\text{⋆˚꩜｡ i love all of my moots we kiss eachother goodnight right guys?}}$ 
 
+$\color{#cfc1c1}{\text{⋆˚꩜｡ i love love love love love love drawing commision me RN!!}}$ 
 <img align="right"
      src="https://github.com/user-attachments/assets/35138655-bbb5-493a-a51b-38d2683fee9f" 
 width="45%">
@@ -36,4 +37,4 @@ width="45%">
 ♡ ───────────── ♡
 
 </div>
-bf9f9f
+thanks to master xyl for helpıng me with this not because i wanted it or anything
