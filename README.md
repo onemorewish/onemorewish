@@ -12,7 +12,17 @@ width="100%" alt="Banner">
 width="50%" alt="Profile image">
 <p align="left"> <font size="5"> $\color{#bf9f9f}{\text{✦•┈๑⋅⋯ SOMETHINGSOMETHING ⋯⋅๑┈•✦}}$
 
-$\color{#cfc1c1}{\text{OH MY HGOOOD ITS WORKING !!!!}}$ 
+
+$\color{#cfc1c1}{\text{⋆˚꩜｡ hi hello?? Lana/Dilara ⋆˚ she/her 𑣲. turkish''turk }}$ 
+
+$\color{#cfc1c1}{\text{⋆˚꩜｡ C+H ok??? im really cutsie pootsie just a lil quiet}}$ 
+
+$\color{#cfc1c1}{\text{⋆˚꩜｡ im a minor '' most of things i say joke dont take it srs pls}}$ 
+
+$\color{#cfc1c1}{\text{⋆˚꩜｡ blocked xyl and stole her shii ahahauahHhhahahAHHAHAHA}}$ 
+
+$\color{#cfc1c1}{\text{⋆˚꩜｡ i love all of my moots we kiss eachother goodnight right guys?}}$ 
+
 
 
 
