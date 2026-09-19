@@ -8,9 +8,8 @@ width="100%" alt="Banner">
 <br clear="both">
 
 <img align="left"
-     src="https://github.com/user-attachments/assets/2045dee4-793f-4dae-87b3-2edc05cc0e36"
-     width="60%"
-     alt="Profile image">
+     src="https://github.com/user-attachments/assets/c479311c-18aa-4eb5-afa9-877f4344a0c6"
+width="50%" alt="Profile image">
 <p align="left"> <font size="5"> $\color{#bf9f9f}{\text{✦•┈๑⋅⋯ SOMETHINGSOMETHING ⋯⋅๑┈•✦}}$
 
 $\color{#cfc1c1}{\text{OH MY HGOOOD ITS WORKING !!!!}}$ 
