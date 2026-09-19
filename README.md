@@ -2,15 +2,16 @@
 <img src="https://github.com/user-attachments/assets/242e8a43-65f1-4544-96ba-fddef2a7b3c0"
 width="100%" alt="Banner">
 
-</div>
+<p align="center"> <font size="5"> $\color{#bf9f9f}{\text{✦•┈๑⋅⋯ ⏔⏔⏔⏔⏔⏔꒰ ᧔ෆ᧓ ꒱⏔⏔⏔⏔⏔⏔⋯⋅๑┈•✦}}$
+
 
 <br clear="both">
 
 <img align="left"
      src="https://github.com/user-attachments/assets/2045dee4-793f-4dae-87b3-2edc05cc0e36"
-     width="50%"
+     width="60%"
      alt="Profile image">
-<p align="left"> <font size="5"> $\color{#bf9f9f}{\text{✦•┈๑⋅⋯ ⏔⏔⏔⏔⏔⏔꒰ ᧔ෆ᧓ ꒱⏔⏔⏔⏔⏔⏔⋯⋅๑┈•✦}}$
+<p align="left"> <font size="5"> $\color{#bf9f9f}{\text{✦•┈๑⋅⋯ SOMETHINGSOMETHING ⋯⋅๑┈•✦}}$
 
 $\color{#cfc1c1}{\text{OH MY HGOOOD ITS WORKING !!!!}}$ 
 
