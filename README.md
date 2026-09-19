@@ -7,8 +7,8 @@ width="100%" alt="Banner">
 <br clear="both">
 
 <img align="left"
-     src="https://github.com/user-attachments/assets/56979814-8be4-465f-a6cd-c9a87df7b21b"
-     width="40%"
+     src="https://github.com/user-attachments/assets/2045dee4-793f-4dae-87b3-2edc05cc0e36"
+     width="50%"
      alt="Profile image">
 <p align="left"> <font size="5"> $\color{#bf9f9f}{\text{✦•┈๑⋅⋯ ⏔⏔⏔⏔⏔⏔꒰ ᧔ෆ᧓ ꒱⏔⏔⏔⏔⏔⏔⋯⋅๑┈•✦}}$
 
