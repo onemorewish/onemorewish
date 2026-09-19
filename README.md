@@ -9,7 +9,8 @@ width="100%" alt="Banner">
 
 <img align="left"
      src="https://github.com/user-attachments/assets/c479311c-18aa-4eb5-afa9-877f4344a0c6"
-width="50%" alt="Profile image">
+width="50%" alt="">
+
 <p align="left"> <font size="5"> $\color{#bf9f9f}{\text{✦•┈๑⋅⋯ SOMETHINGSOMETHING ⋯⋅๑┈•✦}}$
 
 
@@ -23,7 +24,9 @@ $\color{#cfc1c1}{\text{⋆˚꩜｡ blocked xyl and stole her shii ahahauahHhhaha
 
 $\color{#cfc1c1}{\text{⋆˚꩜｡ i love all of my moots we kiss eachother goodnight right guys?}}$ 
 
-
+<img align="right"
+     src="https://github.com/user-attachments/assets/35138655-bbb5-493a-a51b-38d2683fee9f" 
+width="45%">
 
 
 <br clear="both">
