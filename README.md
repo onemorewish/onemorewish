@@ -11,7 +11,7 @@ width="100%" alt="Banner">
      src="https://github.com/user-attachments/assets/c479311c-18aa-4eb5-afa9-877f4344a0c6"
 width="50%" alt="">
 
-<p align="left"> <font size="5"> $\color{#bf9f9f}{\text{✦•┈๑⋅⋯ SOMETHINGSOMETHING ⋯⋅๑┈•✦}}$
+<p align="left"> <font size="5"> $\color{#bf9f9f}{\text{✦•┈๑⋅⋯˗ˋˏ༺ ⋆.˚SOMETHINGSOMETHING⋆.˚ ༻ˎˊ˗ ⋯⋅๑┈•✦}}$
 
 
 $\color{#cfc1c1}{\text{⋆˚꩜｡ hi hello?? Lana/Dilara ⋆˚ she/her 𑣲. turkish''turk }}$ 
