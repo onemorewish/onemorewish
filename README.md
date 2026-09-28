@@ -38,5 +38,6 @@ width="45%">
 
 </div>
 thanks to master xyl for helpıng me with this not because i wanted it or anything
+────────────
 Holy gold stuck
 <img width="1206" height="678" alt="Ekran Görüntüsü (132)" src="https://github.com/user-attachments/assets/232acb34-0303-4099-9fa5-e3010c46de32" />
