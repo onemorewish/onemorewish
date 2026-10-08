@@ -24,7 +24,7 @@ $\color{#cfc1c1}{\text{⋆˚꩜｡ blocked xyl and stole her shii ahahauahHhhaha
 
 $\color{#cfc1c1}{\text{⋆˚꩜｡ i love all of my moots we kiss eachother goodnight right guys?}}$ 
 
-$\color{#cfc1c1}{\text{⋆˚꩜｡ i love love love love love love drawing commision me RN!!}}$ 
+$\color{#cfc1c1}{\text{⋆˚꩜｡ i larp so much ughh larp larp larpplarpplarplollplplp}}$ 
 <img align="right"
      src="https://github.com/user-attachments/assets/35138655-bbb5-493a-a51b-38d2683fee9f" 
 width="45%">
