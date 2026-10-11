@@ -11,7 +11,7 @@ width="110%" alt="Banner">
      src="https://github.com/user-attachments/assets/8e392d62-e056-47a9-847d-ad915a5f8998"
 width="50%" alt="">
 
-<p align="left"> <font size="5"> $\color{#F2C270}{\text{✦•┈๑⋅⋯˗ˋˏ༺ ⋆.˚SOMETHINGSOMETHING⋆.˚ ༻ˎˊ˗ ⋯⋅๑┈•✦}}$
+<p align="left"> <font size="5"> $\color{#EEB79F}{\text{✦•┈๑⋅⋯˗ˋˏ༺ ⋆.˚MOE MOE KYUN KYUN!!⋆.˚ ༻ˎˊ˗ ⋯⋅๑┈•✦}}$
 
 
 $\color{#F5D778}{\text{⋆˚꩜｡ hi hello?? Lana/Dilara ⋆˚ she/her 𑣲. turkish''turk }}$ 
