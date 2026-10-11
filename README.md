@@ -1,6 +1,6 @@
 
 <img src="https://github.com/user-attachments/assets/ee7de0eb-9502-40ff-ba1f-8e43bf76a0f1"
-width="100%" alt="Banner">
+width="110%" alt="Banner">
 
 <p align="center"> <font size="5"> $\color{#bf9f9f}{\text{✦•┈๑⋅⋯ ⏔⏔⏔⏔⏔⏔꒰ ᧔ෆ᧓ ꒱⏔⏔⏔⏔⏔⏔⋯⋅๑┈•✦}}$
 
