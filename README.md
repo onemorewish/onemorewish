@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/ee7de0eb-9502-40ff-ba1f-8e43bf76a0f1"
 width="110%" alt="Banner">
 
-<p align="center"> <font size="5"> $\color{#EEB79F}{\text{✦•┈๑⋅⋯ ⏔⏔⏔⏔⏔⏔꒰ ᧔ෆ᧓ ꒱⏔⏔⏔⏔⏔⏔⋯⋅๑┈•✦}}$
+<p align="center"> <font size="5"> $\color{#D97978}{\text{✦•┈๑⋅⋯ ⏔⏔⏔⏔⏔⏔꒰ ᧔ෆ᧓ ꒱⏔⏔⏔⏔⏔⏔⋯⋅๑┈•✦}}$
 
 
 <br clear="both">
