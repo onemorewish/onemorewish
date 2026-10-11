@@ -26,7 +26,7 @@ $\color{#cfc1c1}{\text{⋆˚꩜｡ i love all of my moots we kiss eachother good
 
 $\color{#cfc1c1}{\text{⋆˚꩜｡ i larp so much ughh larp larp larpplarpplarplollplplp}}$ 
 <img align="right"
-     src="https://github.com/user-attachments/assets/35138655-bbb5-493a-a51b-38d2683fee9f" 
+     src="https://github.com/user-attachments/assets/5f594397-0cf3-48ad-8ea2-5efc74ecf795"
 width="45%">
 
 
