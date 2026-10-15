@@ -38,7 +38,10 @@ width="40%">
 
 </div>
 thanks to master xyl for helpıng me with this not because i wanted it or anything
-──────────── i will add YOU (bumyl) here too bum
+──────────── ──────────── ──────────── ──────────── i will change the one with bum on it
 <img src="https://github.com/user-attachments/assets/bb753b66-744f-446d-b846-3ea20ffd4a34"
+width="40%"
+<br clear="both">
+<img src="https://github.com/user-attachments/assets/71189b1a-7f5e-40c1-a060-e19f52e7a34a"
 width="50%"
 <br clear="both">
