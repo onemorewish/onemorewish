@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/3232008e-daec-4488-81ce-aed967b96969"
+<img src="https://github.com/user-attachments/assets/cf693b5c-0a5b-4e3c-a7c2-71b7ce30efdd"
 width="110%" alt="Banner">
 
 <p align="center"> <font size="5"> $\color{#D97978}{\text{✦•┈๑⋅⋯ ⏔⏔⏔⏔⏔⏔꒰ ᧔ෆ᧓ ꒱⏔⏔⏔⏔⏔⏔⋯⋅๑┈•✦}}$
