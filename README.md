@@ -11,8 +11,7 @@ width="110%" alt="Banner">
      src="https://github.com/user-attachments/assets/aef85123-1808-41ec-93b4-0a659ad65850"
 width="50%" alt="">
 
-
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ktrplq65be57za4fy0vrglnsk&cover_image=true&theme=apple&show_offline=true&background_color=4e4752&interchange=false&profanity=false&hide_remaster=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=ktrplq65be57za4fy0vrglnsk&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ktrplq65be57za4fy0vrglnsk&coverwidth="30%">_image=true&theme=default&show_offline=true&background_color=39343d&interchange=false&profanity=false&hide_remaster=false&bar_color=c4b7cb&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ktrplq65be57za4fy0vrglnsk&redirect=true)
   
 <img align="left"
      src="https://github.com/user-attachments/assets/159a5cca-fae5-45de-89cc-81c3c7cb5cd9"
