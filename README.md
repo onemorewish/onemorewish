@@ -2,32 +2,22 @@
 <img src="https://github.com/user-attachments/assets/cf693b5c-0a5b-4e3c-a7c2-71b7ce30efdd"
 width="110%" alt="Banner">
 
-<p align="center"> <font size="5"> $\color{#D97978}{\text{✦•┈๑⋅⋯ ⏔⏔⏔⏔⏔⏔꒰ ᧔ෆ᧓ ꒱⏔⏔⏔⏔⏔⏔⋯⋅๑┈•✦}}$
+<p align="center"> <font size="5"> $\color{#806380}{\text{✦•┈๑⋅⋯ ⏔⏔⏔⏔⏔⏔꒰ ᧔ෆ᧓ ꒱⏔⏔⏔⏔⏔⏔⋯⋅๑┈•✦}}$
 
 
 <br clear="both">
 
-<img align="left"
-     src="https://github.com/user-attachments/assets/8e392d62-e056-47a9-847d-ad915a5f8998"
+<img align="right"
+     src="https://github.com/user-attachments/assets/aef85123-1808-41ec-93b4-0a659ad65850"
 width="50%" alt="">
 
-<p align="left"> <font size="5"> $\color{#EEB79F}{\text{✦•┈๑⋅⋯˗ˋˏ༺ ⋆.˚MOE MOE KYUN KYUN!!⋆.˚ ༻ˎˊ˗ ⋯⋅๑┈•✦}}$
 
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ktrplq65be57za4fy0vrglnsk&cover_image=true&theme=natemoo-re&show_offline=true&background_color=4e4752&interchange=false&profanity=false&hide_remaster=false&bar_color=c4b7cb&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ktrplq65be57za4fy0vrglnsk&redirect=true)
 
-$\color{#F5D778}{\text{⋆˚꩜｡ hi hello?? Lana/Dilara ⋆˚ she/her 𑣲. turkish''turk }}$ 
-
-$\color{#F5D778}{\text{⋆˚꩜｡ C+H ok??? im really cutsie pootsie just a lil quiet}}$ 
-
-$\color{#F5D778}{\text{⋆˚꩜｡ im a minor '' most of things i say joke dont take it srs pls}}$ 
-
-$\color{#F5D778}{\text{⋆˚꩜｡ blocked xyl and stole her shii ahahauahHhhahahAHHAHAHA}}$ 
-
-$\color{#F5D778}{\text{⋆˚꩜｡ i love all of my moots we kiss eachother goodnight right guys?}}$ 
-
-$\color{#F5D778}{\text{⋆˚꩜｡ i larp so much ughh larp larp larpplarpplarplollplplp}}$ 
-<img align="right"
-     src="https://github.com/user-attachments/assets/cacdcf8b-3f48-4eca-858a-aa295b10ea8c"
-width="40%">
+  
+<img align="left"
+     src="https://github.com/user-attachments/assets/159a5cca-fae5-45de-89cc-81c3c7cb5cd9"
+width="30%">
 
 
 <br clear="both">
@@ -36,13 +26,3 @@ width="40%">
 
 ♡ ───────────── ♡
 
-</div>
-thanks to master xyl for helpıng me with this not because i wanted it or anything
-──────────── ──────────── 
-<img src="https://github.com/user-attachments/assets/bb753b66-744f-446d-b846-3ea20ffd4a34"
-width="40%"
-<br clear="both">
-<img src="https://github.com/user-attachments/assets/71189b1a-7f5e-40c1-a060-e19f52e7a34a"
-width="50%"
-<br clear="both">
- i will change the one with bum on it
