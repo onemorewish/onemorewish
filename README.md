@@ -9,7 +9,7 @@ width="110%" alt="Banner">
 
 <img align="center"
      src="https://github.com/user-attachments/assets/aef85123-1808-41ec-93b4-0a659ad65850"
-width="50%" alt="">
+width="50%" alt="header">
  
 <img align="left"
      src="https://github.com/user-attachments/assets/662a8cb5-7377-494a-bffc-b3dfce099fa4"
