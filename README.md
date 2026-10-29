@@ -23,3 +23,4 @@ width="40%">
 <div align="center">
 ♡ ───────────── ♡
 
+<img width="838" height="471" alt="Ekran Görüntüsü (240)" src="https://github.com/user-attachments/assets/c0e67ac7-820e-4183-b958-c88d9ed66fce" />
