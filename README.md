@@ -33,3 +33,5 @@ width="40%">
 width="40%">
 
 <img width="838" height="471" alt="Ekran Görüntüsü (240)" src="https://github.com/user-attachments/assets/c0e67ac7-820e-4183-b958-c88d9ed66fce" />
+<img width="393" height="387" alt="Ekran görüntüsü 2026-11-04 002212" src="https://github.com/user-attachments/assets/b57cc47a-54e1-4fae-8dc1-f8c01c253a18" />
+<img width="316" height="235" alt="Ekran görüntüsü 2026-11-04 003335" src="https://github.com/user-attachments/assets/3d2fc92d-f207-4c07-91c7-43d3222b8fdc" />
