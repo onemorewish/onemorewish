@@ -24,5 +24,11 @@ width="40%">
 ♡ ───────────── ♡
 
 THANK YOU https://github.com/pt-ship-nominations FOR INCLUDING ME!!!
+<img align="left"
+     src="https://github.com/user-attachments/assets/0ab33cff-b81e-438d-a7e3-ba8cbdf91fd9"
+     width="35%">
+<<img align="right"
+     src="https://github.com/user-attachments/assets/262d9795-dfe8-4f52-9229-e637eda01c3e"
+width="40%">
 
 <img width="838" height="471" alt="Ekran Görüntüsü (240)" src="https://github.com/user-attachments/assets/c0e67ac7-820e-4183-b958-c88d9ed66fce" />
