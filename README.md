@@ -21,13 +21,14 @@ width="40%">
 <br clear="both">
 
 <div align="center">
+     THANK YOU https://github.com/pt-ship-nominations FOR INCLUDING ME!!!
+<div align="center">
 ♡ ───────────── ♡
 
-THANK YOU https://github.com/pt-ship-nominations FOR INCLUDING ME!!!
 <img align="left"
      src="https://github.com/user-attachments/assets/0ab33cff-b81e-438d-a7e3-ba8cbdf91fd9"
-     width="35%">
-<<img align="right"
+     width="30%">
+<img align="right"
      src="https://github.com/user-attachments/assets/262d9795-dfe8-4f52-9229-e637eda01c3e"
 width="40%">
 
