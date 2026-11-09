@@ -36,3 +36,4 @@ width="40%">
 <img width="393" height="387" alt="Ekran görüntüsü 2026-11-04 002212" src="https://github.com/user-attachments/assets/b57cc47a-54e1-4fae-8dc1-f8c01c253a18" />
 <img width="316" height="235" alt="Ekran görüntüsü 2026-11-04 003335" src="https://github.com/user-attachments/assets/3d2fc92d-f207-4c07-91c7-43d3222b8fdc" />
 <img width="586" height="501" alt="Ekran görüntüsü 2026-11-06 234538" src="https://github.com/user-attachments/assets/df96e3b6-d48f-437c-89c4-9451ec08556d" />
+<img width="828" height="508" alt="WhatsApp Image 2026-11-09 at 23 57 33" src="https://github.com/user-attachments/assets/1a5b0708-2eb5-4c4d-acf2-4291e5c8e3e7" />
