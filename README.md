@@ -36,3 +36,4 @@ width="40%">
 
 <img width="838" height="471" alt="Ekran Görüntüsü (240)" src="https://github.com/user-attachments/assets/c0e67ac7-820e-4183-b958-c88d9ed66fce" />
 <img width="828" height="508" alt="WhatsApp Image 2026-11-09 at 23 57 33" src="https://github.com/user-attachments/assets/1a5b0708-2eb5-4c4d-acf2-4291e5c8e3e7" />
+<img width="985" height="530" alt="Ekran görüntüsü 2026-11-15 173916" src="https://github.com/user-attachments/assets/ba89c167-7dc0-44fa-b5db-9ad8e6bb2453" />
