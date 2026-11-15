@@ -22,6 +22,7 @@ width="40%">
 
 <div align="center">
      THANK YOU https://github.com/pt-ship-nominations FOR INCLUDING ME!!!
+     @onemorewish as Ponytown's ⋆━ Princezam! - Lifesteal SMP
 <div align="center">
 ♡ ───────────── ♡
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=ktrplq65be57za4fy0vrglnsk">
